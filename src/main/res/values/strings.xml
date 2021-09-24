@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KateProject</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="temp">Температура</string>
+    <string name="date">Дата рождения</string>
+    <string name="dad_name">Отчество</string>
+</resources>
